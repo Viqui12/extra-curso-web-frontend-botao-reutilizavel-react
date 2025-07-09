@@ -1,0 +1,37 @@
+.salvar{ /* class*/
+    display:flex; /* faz com que os botões fiquem lado a lado*/
+    justify-content: center; /*centraliza*/
+     gap: 10px; /*espaçamenmto*/
+      margin-top: 20px; /* Espaço de 20px acima da div de botões */
+}
+.botao-salvar {
+  background-color: #4CAF50; /* Verde */
+  padding: 10px 20px;
+  border-radius: 15px;
+  color: white;
+  border: 2px solid rgb(245, 237, 237);
+  width: 100%;
+max-width: 300px;
+
+
+}
+.botao-compartilhar {
+  background-color: #475291; /* Azul */
+  padding: 10px 20px;
+  border-radius: 15px;
+  color: white;
+ border: 2px solid rgb(245, 237, 237);
+ width: 100%;
+max-width: 300px;
+
+
+}
+.botao-cancelar{
+  background-color: #2585D9; /* Azul */
+  padding: 10px 20px;
+  border-radius: 15px;
+  color: white;
+ border: 2px solid rgb(245, 237, 237);
+ width: 100%;
+max-width: 300px;
+}
